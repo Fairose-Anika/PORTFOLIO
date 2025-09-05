@@ -12,12 +12,9 @@ Welcome to **Fairose Anika's Portfolio Website**, showcasing my projects, skills
 ## Tech Stack
 HTML5 | CSS3 | GitHub Pages
 
-## Setup
-1. Clone: `git clone https://github.com/fairose-anika/PORTFOLIO.git`
-2. Open `index.html` in your browser
 
 ## Contact
 - Email: fairoseanika59@
-- GitHub: [fairose-anika](https://github.com/fairose-anika)
+  
 
 
